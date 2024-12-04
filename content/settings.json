@@ -17,8 +17,6 @@
     "logo": { "text": "Andrew Luxmore Portfolio" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Projects", "url": "/#projects" }
       ],
       "ctaButton": {
         "openNewTab": true,

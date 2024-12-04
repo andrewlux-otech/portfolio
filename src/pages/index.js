@@ -1,10 +1,10 @@
 import React from "react";
 import {
-  AboutSection,
+  // AboutSection,
   // ArticlesSection,
   // ContactSection,
   HeroSection,
-  InterestsSection,
+  // InterestsSection,
   Page,
   ProjectsSection,
   Seo,
@@ -17,8 +17,8 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */}
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
+        {/* <AboutSection sectionId="about" heading="About Portfolio Minimal" /> */}
+        {/* <InterestsSection sectionId="details" heading="Details" /> */}
         <ProjectsSection sectionId="projects" heading="Projects" />
         {/* <ContactSection sectionId="github" heading="Github" /> */}
       </Page>

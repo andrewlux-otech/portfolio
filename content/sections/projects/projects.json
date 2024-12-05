@@ -5,7 +5,7 @@
       "category": "Storyboard",
       "title": "The spread of COVID",
       "description": "A storyboard and POC website implementing an actual data module ready to be inserted into a scrollytelling story.",
-      "tags": ["scrollama", "mapbox", "web"],
+      "tags": ["scrollama", "mapbox"],
       "image": {
         "src": "../../images/social-distancing.png",
         "alt": "Screenshot",
@@ -20,6 +20,91 @@
           "type": "external",
           "url": "https://andrewlux-otech.github.io/scrollama-map/"
         }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Redesign",
+      "title": "Minard's famous visualization",
+      "description": "A visual redesign of the Napoleon's failed Russian Campaign.",
+      "tags": ["python", "design"],
+      "image": {
+        "src": "../../images/minard-redesign.png",
+        "alt": "Minard Redesign",
+        "linkTo": "/Minard-redesign.ipynb"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/andrewlux-otech/minard-redesign"
+        },
+        {
+          "type": "external",
+          "url": "https://andrewlux-otech.github.io/minard-redesign/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Infographic",
+      "title": "Single-use plastic",
+      "description": "An infographic on single-use plastic.",
+      "tags": ["design"],
+      "image": {
+        "src": "../../images/single-use-plastic.png",
+        "alt": "Single-use plastic",
+        "linkTo": "/single-use-plastic.pdf"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "Scrollytelling",
+      "title": "Leicester City: 5000 - 1",
+      "description": "A scrollytelling dive into the improbable championship.",
+      "tags": ["scrollama"],
+      "image": {
+        "src": "../../images/leicester-city-scrollytelling.png",
+        "alt": "Leicester City",
+        "linkTo": "/FOOTBALL.pptx.pdf"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/andrewlux-otech/epl-leicester"
+        },
+        {
+          "type": "external",
+          "url": "https://andrewlux-otech.github.io/epl-leicester/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "COVID sketch",
+      "title": "Activities during COVID",
+      "description": "An information gathering note on how one may have spent COVID, centred around exercise and gaming.  Looking at seasonal cycles versus weekly cycles, exploring the best visualization method for both.",
+      "tags": ["sketch"],
+      "image": {
+        "src": "../../images/barbellchart.webp",
+        "alt": "Covid Sketch",
+        "linkTo": "/covid-sketch.png"
+      },
+      "links": [
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Bills sketch",
+      "title": "Go Bills",
+      "description": "An aborted project which involved documenting every time a 'go bills' was either delivered or received while on vacation in Florida.  More than you'd think.  It's like a cult.",
+      "tags": ["sketch"],
+      "image": {
+        "src": "../../images/gobills.webp",
+        "alt": "Go Bills",
+        "linkTo": "/go-bills.pdf"
+      },
+      "links": [
       ]
     }
   ],

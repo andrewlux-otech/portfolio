@@ -1,0 +1,16 @@
+{
+  "sketches": [
+    {
+      "visible": true,
+      "category": "COVID sketch",
+      "title": "Activities during COVID",
+      "description": "An information gathering note on how one may have spent COVID, centred around exercise and gaming.  Looking at seasonal cycles versus weekly cycles, exploring the best visualization method for both.",
+      "tags": ["sketch"],
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": "Covid Sketch",
+        "linkTo": "/covid-sketch.png"
+      }
+    }
+  ]
+}

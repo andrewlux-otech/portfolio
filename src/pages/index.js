@@ -4,7 +4,7 @@ import {
   // ArticlesSection,
   // ContactSection,
   HeroSection,
-  // InterestsSection,
+  InterestsSection,
   Page,
   ProjectsSection,
   Seo,
@@ -20,6 +20,7 @@ export default function IndexPage() {
         {/* <AboutSection sectionId="about" heading="About Portfolio Minimal" /> */}
         {/* <InterestsSection sectionId="details" heading="Details" /> */}
         <ProjectsSection sectionId="projects" heading="Projects" />
+        {/* <InterestsSection sectionId="sketches" heading="Sketches" /> */}
         {/* <ContactSection sectionId="github" heading="Github" /> */}
       </Page>
     </>
